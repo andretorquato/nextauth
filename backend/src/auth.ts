@@ -15,4 +15,5 @@ export function generateJwtAndRefreshToken(email: string, payload: object = {}) 
     token,
     refreshToken,
   }
+  
 }
